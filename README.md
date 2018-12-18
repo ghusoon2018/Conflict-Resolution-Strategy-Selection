@@ -4,3 +4,5 @@ Conflict Resolution Strategy Selection
 
 Download a total PDF research from
 https://thesai.org/Downloads/Volume8No8/Paper_24-Validating_a_Novel_Conflict_Resolution_Strategy.pdf
+
+and validation from https://thesai.org/Downloads/Volume8No8/Paper_24-Validating_a_Novel_Conflict_Resolution_Strategy.pdf
