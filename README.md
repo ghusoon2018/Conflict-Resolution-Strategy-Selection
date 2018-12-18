@@ -5,4 +5,6 @@ Conflict Resolution Strategy Selection
 Download a total PDF research from
 https://thesai.org/Downloads/Volume8No8/Paper_24-Validating_a_Novel_Conflict_Resolution_Strategy.pdf
 
+Cnflict lssification from https://www.igi-global.com/chapter/a-conflict-classification-and-resolution-modeling-in-multi-agent-systems/112394
+
 and validation from https://thesai.org/Downloads/Volume8No8/Paper_24-Validating_a_Novel_Conflict_Resolution_Strategy.pdf
